@@ -27,6 +27,7 @@ struct MissionView: View {
                         width, axis in
                         width * 0.6
                     }
+                    .accessibilityLabel(mission.badge)
                 
                 Text(mission.formattedLaunchDate)
                     .font(.headline)
