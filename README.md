@@ -10,6 +10,8 @@ Each folder is a standalone project or challenge that focuses on a set of SwiftU
 
 | Project # | Name        | Description                               | Topics                         |
 |-----------|-------------|-------------------------------------------|--------------------------------|
+| 16        | [HotProspects](./Project16-HotProspects) | Business card app with QR scanning, contacts and notifications | TabView, custom @EnvironmentObject, Result, contextMenu, image interpolation, swipeActions, local notifications, UserNotifications, Swift package dependencies |
+| 15        | [Accessibility](./Project15-Accessibility) | Make apps usable for everyone with accessibility modifiers | .accessibilityLabel(), .accessibilityHint(), .accessibilityValue(), .accessibilityAdjustableAction(), VoiceOver |
 | 14        | [BucketList](./Project14-BucketList) | Add locations to a map, authenticate with Face ID, and save data securely | MapKit, FaceID, Comparable, MVVM, FileManager, Network, Wikipedia API |
 | 13        | [Instafilter](./Project13-Instafilter) | Apply Core Image filters to photos and share results | PhotosPicker, CoreImage, onChange(), confirmationDialog(), ShareLink, ContentUnavailableView |
 | 12        | [SwiftData](./Project12-SwiftData) | Edit, filter, and relate SwiftData objects with dynamic queries | SwiftData, @Query, #Predicate, Relationships, CloudKit |
