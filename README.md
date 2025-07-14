@@ -1,6 +1,6 @@
 # 100 Days of SwiftUI 💻🍎
 
-This repository contains my daily progress through the [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) course by Paul Hudson.
+This repository contains my progress through the [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) course by Paul Hudson.
 
 Each folder is a standalone project or challenge that focuses on a set of SwiftUI concepts. My goal is to build a solid iOS development foundation while learning by doing.
 
@@ -10,6 +10,7 @@ Each folder is a standalone project or challenge that focuses on a set of SwiftU
 
 | Project # | Name        | Description                               | Topics                         |
 |-----------|-------------|-------------------------------------------|--------------------------------|
+| 18        | [LayoutAndGeometry](./Project18-LayoutAndGeometry) | Explore SwiftUI layout rules, alignment, and coordinate spaces using GeometryReader | GeometryReader, alignment guides, coordinateSpace, visualEffect, scrollTargetBehavior |
 | 17        | [Flashzilla](./Project17-Flashzilla) | Flashcard app using drag gestures, timers, hit testing and accessibility tools | DragGesture, .offset(), Timer, allowsHitTesting(), VoiceOver, Combine |
 | 16        | [HotProspects](./Project16-HotProspects) | Business card app with QR scanning, contacts and notifications | TabView, custom @EnvironmentObject, Result, contextMenu, image interpolation, swipeActions, local notifications, UserNotifications, Swift package dependencies |
 | 15        | [Accessibility](./Project15-Accessibility) | Make apps usable for everyone with accessibility modifiers | .accessibilityLabel(), .accessibilityHint(), .accessibilityValue(), .accessibilityAdjustableAction(), VoiceOver |
